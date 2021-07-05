@@ -1,0 +1,15 @@
+h1{
+     color: blue;
+     font-size: 25px
+}
+#samrat{
+     color: cyan;
+     font-size: 20px;
+}
+.antu{
+     color: chocolate !important;
+     font-size: 23px;
+}
+.sam{
+     font-size: 30px;
+}
